@@ -1,0 +1,48 @@
+1,1a. Total Sales by Product,,,1b. Total Sales by Region,,,,1c. Total Sales by Month,,,,,,,,,,
+,Product,Sum of Revenue,,Region,Sum of Revenue,,,Years,Quarters,OrderDate,Sum of Revenue,,,,Quarterly Sales Trend,,,
+,Gloves,296900,,North,387000,,,2023,,,,,,,Years,Quarters,OrderDate,Sum of Revenue
+,Hat,316195,,South,927820,,,,Qtr1,,,,,,2023,,,
+,Jacket,208230,,East,485925,,,,,Jan,49600,,,,,Qtr1,,
+,Shirt,485600,,West,300345,,,,,Feb,247500,,,,,,Jan,49600
+,Shoes,613380,,Grand Total,2101090,,,,,Mar,52395,,,,,,Feb,247500
+,Socks,180785,,,,,,,Qtr2,,,,,,,,Mar,52395
+,Grand Total,2101090,,,,,,,,Apr,7425,,,,,Qtr2,,
+,,,,,,,,,,May,59640,,,,,,Apr,7425
+,,,,,,,,,,Jun,99400,,,,,,May,59640
+3,Additional Reports using Pivot Table and Chart,,,,,,,,Qtr3,,,,,,,,Jun,99400
+,3a. Number of Sales by Product,,,,,,,,,Jul,237600,,,,,Qtr3,,
+,Product,Count of Revenue,,,,,,,,Aug,29880,,,,,,Jul,237600
+,Gloves,1484,,,,,,,,Sep,34720,,,,,,Aug,29880
+,Hat,1991,,,,,,,Qtr4,,,,,,,,Sep,34720
+,Jacket,1488,,,,,,,,Oct,133920,,,,,Qtr4,,
+,Shirt,1487,,,,,,,,Nov,103950,,,,,,Oct,133920
+,Shoes,1987,,,,,,,,Dec,49300,,,,,,Nov,103950
+,Socks,1484,,,,,,2024,,,,,,,,,Dec,49300
+,Grand Total,9921,,,,,,,Qtr1,,,,,,2024,,,
+,,,,,,,,,,Jan,198400,,,,,Qtr1,,
+,,,,,,,,,,Feb,298800,,,,,,Jan,198400
+,,,,,,,,,,Mar,54780,,,,,,Feb,298800
+,,,,,,,,,Qtr2,,,,,,,,Mar,54780
+,3b. Number of Sales by region and Product,,,,,,,,,Apr,39440,,,,,Qtr2,,
+,Product,Region,Count of Revenue,,,,,,,May,44640,,,,,,Apr,39440
+,Gloves,,1484,,,,,,,Jun,148200,,,,,,May,44640
+,,South,991,,,,,,Qtr3,,,,,,,,Jun,148200
+,,West,493,,,,,,,Jul,37200,,,,,Qtr3,,
+,Hat,,1991,,,,,,,Aug,174300,,,,,,Jul,37200
+,,North,496,,,,,Grand Total,,,2101090,,,,,,Aug,174300
+,,East,997,,,,,,,,,,,,Grand Total,,,2101090
+,,West,498,,,,,,,Top Selling Product,,,,,,,,
+,Jacket,,1488,,,,,,,Product,Count of Revenue,,,,,,,
+,,North,993,,,,,,,Hat,1991,,,,,,,
+,,East,495,,,,,,,Jacket,1488,,,,,,,
+,Shirt,,1487,,,,,,,Shirt,1487,,,,,,,
+,,North,992,,,,,,,Shoes,1987,,,,,,,
+,,East,495,,,,,,,Grand Total,6953,,,,,,,
+,Shoes,,1987,,,,,,,,,,,,,,,
+,,South,993,,,,,,,,,,,,,,,
+,,East,496,,,,,,,,,,,,,,,
+,,West,498,,,,,,,,,,,,,,,
+,Socks,,1484,,,,,,,,,,,,,,,
+,,South,496,,,,,,,,,,,,,,,
+,,West,988,,,,,,,,,,,,,,,
+,Grand Total,,9921,,,,,,,,,,,,,,,
